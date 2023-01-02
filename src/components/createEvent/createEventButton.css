@@ -1,0 +1,18 @@
+.createEventBtn {
+  border-radius: 9999px;
+  padding-left: 2px;
+  padding-right: 2px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+.createEventBtn :hover {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+  cursor: pointer;
+}
+.createEventIcon {
+  width: 10px;
+  height: 10px;
+  padding-left: 3px;
+  padding-right: 3px;
+}

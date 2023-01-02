@@ -1,0 +1,56 @@
+.headerCalendar {
+  padding-bottom: 4px;
+  padding-left: 2px;
+  padding-right: 2px;
+  display: flex;
+  flex-direction: rows;
+  align-items: center;
+}
+
+.logoClass {
+  margin-right: 2px;
+  width: 12;
+  height: 12;
+}
+
+.calendarClass {
+  margin-right: 10px;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: rgb(107 114 128);
+  font-weight: bold;
+}
+
+.todaybtn {
+  border-radius: 0.25rem;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin-right: 5px;
+  background-color: white;
+  border: 1px solid rgb(107 114 128);
+  color: rgb(107 114 128);
+}
+
+.icons {
+  margin-left: 2px;
+  margin-right: 2px;
+  height: 10px;
+}
+
+.monthDisplay {
+  margin-left: 5px;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: rgb(107 114 128);
+}
+
+.monthChangeButtons {
+  border-radius: 0.25rem;
+  border: 1px solid rgb(107 114 128);
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  color: rgb(107 114 128);
+}

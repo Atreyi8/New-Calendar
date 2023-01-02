@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+.sidebarContainer {
+  display: flex;
+}
